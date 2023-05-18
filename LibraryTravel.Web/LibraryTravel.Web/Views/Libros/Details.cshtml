@@ -1,0 +1,42 @@
+﻿@model LibraryTravel.Domain.Models.Libros
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Books</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sinopsis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sinopsis)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.N_Paginas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.N_Paginas)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ISBN }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

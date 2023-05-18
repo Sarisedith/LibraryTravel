@@ -1,0 +1,72 @@
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.deps.json
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.json
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.dev.json
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\ref\LibraryTravel.Infra.Data.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfo.cs
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CopyComplete
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\ref\LibraryTravel.Infra.Data.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.genruntimeconfig.cache
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.deps.json
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.json
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.dev.json
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\ref\LibraryTravel.Infra.Data.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfo.cs
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CopyComplete
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\ref\LibraryTravel.Infra.Data.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.genruntimeconfig.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.deps.json
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.json
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.dev.json
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfo.cs
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CopyComplete
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\refint\LibraryTravel.Infra.Data.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.genruntimeconfig.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\ref\LibraryTravel.Infra.Data.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.deps.json
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.json
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.runtimeconfig.dev.json
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.AssemblyInfo.cs
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.csproj.CopyComplete
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\refint\LibraryTravel.Infra.Data.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\LibraryTravel.Infra.Data.genruntimeconfig.cache
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Infra.Data\obj\Debug\net5.0\ref\LibraryTravel.Infra.Data.dll

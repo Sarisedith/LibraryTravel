@@ -1,0 +1,68 @@
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.deps.json
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\ref\LibraryTravel.Application.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.AssemblyReference.cache
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfoInputs.cache
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfo.cs
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CopyComplete
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\ref\LibraryTravel.Application.dll
+C:\Users\Jhonacardenasc\source\repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.deps.json
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\ref\LibraryTravel.Application.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.AssemblyReference.cache
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfoInputs.cache
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfo.cs
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CopyComplete
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\ref\LibraryTravel.Application.dll
+C:\Users\jhon\Documents\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.deps.json
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.AssemblyReference.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfoInputs.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfo.cs
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CopyComplete
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\refint\LibraryTravel.Application.dll
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\Jhon Cardenas\Downloads\LibraryTravel-main (1)\LibraryTravel-main\SolucionWeb\SolucionWeb\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\ref\LibraryTravel.Application.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.deps.json
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Infra.Data.pdb
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\bin\Debug\net5.0\LibraryTravel.Domain.pdb
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.AssemblyReference.cache
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfoInputs.cache
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.AssemblyInfo.cs
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.csproj.CopyComplete
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\refint\LibraryTravel.Application.dll
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\LibraryTravel.Application.pdb
+C:\Users\Sara\Source\Repos\LibraryTravel\LibraryTravel.Application\obj\Debug\net5.0\ref\LibraryTravel.Application.dll

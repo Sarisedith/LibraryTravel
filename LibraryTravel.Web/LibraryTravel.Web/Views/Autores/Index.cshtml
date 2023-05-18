@@ -1,0 +1,33 @@
+﻿@model LibraryTravel.Application.ViewModels.AutoresViewModel
+
+@{
+    ViewData["Title"] = "Listado de Autores";
+}
+<h1>@ViewData["Title"]</h1>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="autores" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var autores in Model.Autores)
+        {
+            <tr style="height:60px">
+                <td> @autores.Id</td>
+                <td>@autores.Nombre</td>
+                <td>@autores.Apellido</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = autores.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = autores.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = autores.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

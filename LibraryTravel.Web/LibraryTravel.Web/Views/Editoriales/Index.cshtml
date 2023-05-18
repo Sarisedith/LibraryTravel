@@ -1,0 +1,33 @@
+﻿@model LibraryTravel.Application.ViewModels.EditorialesViewModel
+
+@{
+    ViewData["Title"] = "Listado  de Editoriales";
+}
+<h1>@ViewData["Title"]</h1>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="autores" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Sede</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var editoriales in Model.Editoriales)
+        {
+        <tr style="height:60px">
+            <td> @editoriales.Id</td>
+            <td>@editoriales.Nombre</td>
+            <td>@editoriales.Sede</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = editoriales.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = editoriales.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = editoriales.Id })
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
